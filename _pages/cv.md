@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Psychology, University of California, Berkeley, 2016
-* B.S. in Linguistics, University of California, Berkeley, 2011
-* B.S. in Psychology, University of California, Berkeley, 2011
+* Ph.D in Psychology ([Dissertation Prize](https://cognitivesciencesociety.org/glushko-dissertation-prize), University of California, Berkeley, 2016
+* B.A. in Linguistics (with [Departmental Citation](https://financialaid.berkeley.edu/prizes-and-honors-departmental-citations) & Honors), University of California, Berkeley, 2011
+* B.A. in Psychology (with [Departmental Citation](https://financialaid.berkeley.edu/prizes-and-honors-departmental-citations) & Highest Honors), University of California, Berkeley, 2011
 
 Training
 ======
-* <b>Postdoctoral Fellow</b>, Stanford University
+* <b>Postdoctoral Fellow</b>, Stanford University, 2019-current
 
-* <b>Visiting Scholar</b>, University of California, San Diego
+* <b>Visiting Scholar</b>, University of California, San Diego, 2018-current
 
-* <b>Postdoctoral Researcher</b>, Radboud University, Nijmegen, The Netherlands
+* <b>Postdoctoral Researcher</b>, Radboud University & <b>Affiliated Postdoctoral Researcher</b>, Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands, 2016-2018
 
-* <b>Affiliated Postdoctoral Researcher</b>, Max Planck Institute for Psycholinguistics 
+* <b>Instructor (Lecturer)</b>, University of California, Berkeley, 2016
   
 Selected Awards
 ======
@@ -39,18 +39,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Lecturer, Language and Thought, University of California, Berkeley: Summer 2016
+* Graduate Student Instructor, Language and Thought, University of California, Berkeley: Spring 2015
+* Graduate Student Instructor, Introduction to Cognitive Science, University of California, Berkeley: Fall 2012
+* Graduate Student Instructor, Psychology of Sleep, University of California, Berkeley: Fall 2011
+* Course Designer and Facilitator, Psychology Publications DeCal (DeCals are officially registered student-led courses), University of California, Berkeley: Spring 2010, Fall 2010, Spring 2011
+* Volunteer Teacher, Health and Environmental Conservation, World Camp for Kids, Lilongwe, Malawi: Summer 2009
