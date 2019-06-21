@@ -8,4 +8,4 @@ venue: 'Doctoral Dissertation, University of California, Berkeley'
 ---
 Carstensen, A. (2016). Universals and variation in language and thought: Concepts, communication, and semantic structure. (PhD thesis). University of California, Berkeley.
 
-[Download paper here](http://abcarstensen.github.io/files/Carstensen2016_Universals-and-variation-in-language-and-thought.pdf)
+[[PDF]](http://abcarstensen.github.io/files/Carstensen2016_Universals-and-variation-in-language-and-thought.pdf)
