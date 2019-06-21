@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Psychology, University of California, Berkeley, 2016
+* B.S. in Linguistics, University of California, Berkeley, 2011
+* B.S. in Psychology, University of California, Berkeley, 2011
 
-Work experience
+Training
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <b>Postdoctoral Fellow</b>, Stanford University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <b>Visiting Scholar</b>, University of California, San Diego
+
+* <b>Postdoctoral Researcher</b>, Radboud University, Nijmegen, The Netherlands
+
+* <b>Affiliated Postdoctoral Researcher</b>, Max Planck Institute for Psycholinguistics 
   
-Skills
+Selected Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Postdoctoral Fellowship, McDonnell Foundation Subaward “The Nature and Origins of the Human Capacity for Abstract Combinatorial Thought,” 2019-2020
+* Glushko Dissertation Prize in Cognitive Science, 2017
+* National Science Foundation Graduate Research Fellowship, 2013-2016
+* Foreign Language and Area Studies Fellowship in African Studies, US Department of Education, 2010
+* Regents’ and Chancellor’s Scholarship, UC Berkeley, 2007-2011
 
 Publications
 ======
