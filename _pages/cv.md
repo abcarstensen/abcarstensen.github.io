@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Psychology ([2017 Glushko Dissertation Prize](https://cognitivesciencesociety.org/glushko-dissertation-prize)), University of California, Berkeley, 2016
+* Ph.D in Psychology ([Glushko Dissertation Prize 2017](https://cognitivesciencesociety.org/glushko-dissertation-prize)), University of California, Berkeley, 2016
 * B.A. in Linguistics (with [Departmental Citation](https://financialaid.berkeley.edu/prizes-and-honors-departmental-citations) & Honors), University of California, Berkeley, 2011
 * B.A. in Psychology (with [Departmental Citation](https://financialaid.berkeley.edu/prizes-and-honors-departmental-citations) & Highest Honors), University of California, Berkeley, 2011
 
