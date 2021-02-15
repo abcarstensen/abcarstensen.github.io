@@ -6,6 +6,6 @@ excerpt: '**Carstensen, A.** & Frank, M.C. (2021). Do graded representations sup
 date: 2021-02-01
 venue: 'Current Opinion in Behavioral Sciences'
 ---
-Carstensen, A. & Frank, M.C. (2021). Do graded representations support abstract thought? Current Opinion in Behavioral Sciences, 37, 90-97.
+**Carstensen, A.** & Frank, M.C. (2021). Do graded representations support abstract thought? Current Opinion in Behavioral Sciences, 37, 90-97.
 
 [[PDF]](CarstensenFrank2021_graded-representations.pdf)
